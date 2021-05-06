@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello! My name is Kevin Nguyen and I am a student at the University of Washington Bothell. I am currently studying Computer Science and Software Engineering, while studying Mathematics. Feel free to look at my repositories!
+
 <!--
 **nguyenkevins/nguyenkevins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
