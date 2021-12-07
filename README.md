@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Kevin Nguyen. I am currently a fourth-year Computer Science & Software Engineering student at University of Washington Bothell. My interest is in full stack and mobile application development.
+My name is Kevin Nguyen. I am currently a fourth-year Computer Science & Software Engineering student at University of Washington Bothell. My interest is in full stack and mobile application development.
 
 <!--
 **nguyenkevins/nguyenkevins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
